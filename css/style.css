@@ -226,11 +226,11 @@ img{
 }
 
 .news-right{
-    background: url(../images/works-img/02.jpg) no-repeat center center/cover;
+    background: url(/images/works-img/02.jpg) no-repeat center center/cover;
     width: 100%;
 }
 .news-left{
-    background: url(../images/works-img/03.jpg) no-repeat center center/cover;
+    background: url(/images/works-img/03.jpg) no-repeat center center/cover;
     width: 100%;
     
 }
